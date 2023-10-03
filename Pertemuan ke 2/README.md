@@ -41,3 +41,5 @@ web lebih ke perangkat lunak dan menggunakan HTTP untuk mengaksesnya. Sedangkan 
 ## Struktur URL
 * Protocol   =>      Nama Situs   =>     Path Absolut
   http://            WWW.Dicky          /2024/Capres/index.html
+
+
